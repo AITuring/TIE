@@ -1,4 +1,4 @@
-![](/tie2.png)
+![](https://img.apoollo.xyz/tie2.png)
 # TIE
 
 ## 算法与LeetCode 题解
