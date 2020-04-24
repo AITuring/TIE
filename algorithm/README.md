@@ -13,6 +13,7 @@
 * [哈希表](data-structure/hash/)
 ### 算法思想
 * 排序
+  * [归并排序](algorithm/MergeSort.md)
   * [堆排序](algorithm/sort/heap/)
   * [快速排序](algorithm/sort/quick/)
   * [冒泡排序](algorithm/sort/bubble/)

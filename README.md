@@ -21,6 +21,8 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
 
 ### [算法与数据结构](/algorithm/README.md)
 * 🍕[贪心算法](/algorithm/Greedy.md)
+* 🧮排序
+  * [归并排序](/algorithm/MergeSort.md)
 
 ### [leetcode题解](/leetcode/README.md)
 * ⭐[分发饼干](/leetcode/455_分发饼干.md) 　js　 python
@@ -29,3 +31,7 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
 #### 程序员面试金典
 
 * ⭐⭐[08.11_硬币](leetcode/程序员面试金典/面试题08_11_硬币.md)
+
+#### 剑指offer
+
+* ⭐⭐⭐[数组中的逆序对](/leetcode/剑指offer/51_数组中的逆序对.md) 
