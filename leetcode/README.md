@@ -1,3 +1,5 @@
+* 2020.04.27
+  * [丑数](/leetcode/263_丑数.md) ⭐ 数学 python
 * 2020.04.24
   * [分发饼干](/leetcode/455_分发饼干.md) ⭐ [贪心](/algorithm/Greedy.md) 　js　 python
   * [柠檬水找零](/leetcode/860_柠檬水找零.md) ⭐ [贪心](/algorithm/Greedy.md)  　js　 python
