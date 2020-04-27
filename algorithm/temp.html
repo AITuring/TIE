@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="nav">
+        <a href="http://www.qq.com">www.qq.com</a>
+        <a href="https://mp.weixin.qq.com">mp.weixin.qq.com</a>
+        <a href="https://open.weixin.qq.com">open.weixin.qq.com</a>
+        <a href="//v.qq.com">v.qq.com</a>
+    </div>
+    <script>
+        var linka = document.getElementsByTagName('a');
+        var ans=[];
+        var web={};
+        for(var i = 0; i < linka.length; i++){
+            var temp=false;
+            var protocol=linka[i].protocol;
+            if (protocol=='https:'){
+                temp=true;
+            }
+            ans.push({
+
+                value:linka[i].text,
+                href:linka[i].href,
+                security:temp
+
+            })
+            
+          
+        }
+        console.log(ans);
+    </script>
+</body>
+</html>
