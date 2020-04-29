@@ -22,13 +22,14 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
 ### [算法与数据结构](/algorithm/README.md)
 * [x] 🚌[数组](/data-structure/array.md)
 * [x] 🍕[贪心算法](/algorithm/Greedy.md)
+* [x] 🤯[位运算](algorithm/BitManipulation.md)
 * 🧮排序
   * [ ] [归并排序](/algorithm/MergeSort.md)
 
 ### [leetcode题解](/leetcode/README.md)
-* ⭐[分发饼干](/leetcode/455_分发饼干.md) 　js　 python
-* ⭐[柠檬水找零](/leetcode/860_柠檬水找零.md) 　js　 python 
-* ⭐[丑数](/leetcode/263_丑数.md)  python
+* ⭐[分发饼干](/leetcode/455_分发饼干.md) 
+* ⭐[柠檬水找零](/leetcode/860_柠檬水找零.md) 　
+* ⭐[丑数](/leetcode/263_丑数.md)  
 
 #### 程序员面试金典
 
@@ -37,3 +38,4 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
 #### 剑指offer
 
 * [ ] ⭐⭐⭐[数组中的逆序对](/leetcode/剑指offer/51_数组中的逆序对.md) 
+* [x] ⭐[二进制中1的个数](/leetcode/剑指offer/15_%20二进制中1的个数.md)  

@@ -1,3 +1,7 @@
-def search(nums, target):
-    # 先二分，二分有一部分有序，我得找出来才行
-    mid=len(nums)//2
+n=int(input())
+row=[]
+while 1:
+    try:
+        row.append(input())
+    else:
+        break

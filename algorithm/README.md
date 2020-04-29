@@ -1,6 +1,6 @@
 
 ### 数据结构
-* [数组](data-structure/array.md)
+* 🚌[数组](data-structure/array.md)
 * [字符串](data-structure/string/)
 * [链表](data-structure/linked_list/)
 * 树
@@ -24,7 +24,7 @@
   * [二分查找](algorithm/research/binary-search/)
 * [动态规划](algorithm/Dynamicprogramming.md)
 * 🍕[贪心](algorithm/Greedy.md)
-* [位运算](algorithm/bit/)
+* 🤯[位运算](algorithm/BitManipulation.md)
 * [数学题](algorithm/math/)
 * [其他](algorithm/other/)
   
