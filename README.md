@@ -27,9 +27,10 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
   * [ ] [归并排序](/algorithm/MergeSort.md)
 
 ### [leetcode题解](/leetcode/README.md)
-* ⭐[分发饼干](/leetcode/455_分发饼干.md) 
-* ⭐[柠檬水找零](/leetcode/860_柠檬水找零.md) 　
-* ⭐[丑数](/leetcode/263_丑数.md)  
+* [x] ⭐[分发饼干](/leetcode/455_分发饼干.md) 
+* [x] ⭐[柠檬水找零](/leetcode/860_柠檬水找零.md) 　
+* [x] ⭐[丑数](/leetcode/263_丑数.md) 
+* [x] ⭐[快乐数](/leetcode/202_快乐数.md)  
 
 #### 程序员面试金典
 
