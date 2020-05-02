@@ -20,7 +20,7 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
 ## 📃目录
 
 ### [算法与数据结构](/algorithm/README.md)
-* [x] 🚌[数组](/data-structure/array.md)
+* [ ] 🚌[数组](/data-structure/array.md)
 * [x] 🍕[贪心算法](/algorithm/Greedy.md)
 * [x] 🤯[位运算](algorithm/BitManipulation.md)
 * 🧮排序
@@ -31,7 +31,8 @@ TIE是我的数据结构与算法学习记录本，并且总结了所有做过�
 * [x] ⭐[柠檬水找零](/leetcode/860_柠檬水找零.md) 　
 * [x] ⭐[丑数](/leetcode/263_丑数.md) 
 * [x] ⭐[快乐数](/leetcode/202_快乐数.md) 
-* [x] ⭐[合并两个有序链表](/leetcode/21_合并两个有序链表.md)  
+* [x] ⭐[合并两个有序链表](/leetcode/21_合并两个有序链表.md)
+* [x]  ⭐⭐ [无重复字符的最长子串](/leetcode/3_无重复字符的最长子串.md)
 
 #### 程序员面试金典
 
